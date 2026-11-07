@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cetros do Arquiteto",
+    "description": "Recursos visuais, hologramas arquitetônicos e texturas exclusivas dos Cetros do Arquiteto v4.0.",
+    "uuid": "e618b540-3a9c-42f7-b581-2d930a7f4c44",
+    "version": [
+      4,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      100
+    ]
+  },
+  "modules": [
+    {
+      "description": "Cetros do Arquiteto - Recursos",
+      "type": "resources",
+      "uuid": "71d94c28-6b2e-49a1-9c73-50e82b1d9f55",
+      "version": [
+        4,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "9f4e2a71-8c3b-4d62-a195-3e7b84c20f11",
+      "version": [
+        4,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "addon",
+    "authors": [
+      "IgorCosta"
+    ]
+  }
+}

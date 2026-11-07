@@ -1,0 +1,35 @@
+{
+  "format_version": "1.21.60",
+  "minecraft:crafting_items_catalog": {
+    "categories": [
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "arc_st:echo_staff",
+              "name": "arc_st:staffs"
+            },
+            "items": [
+              "arc_st:stone_staff",
+              "arc_st:copper_staff",
+              "arc_st:iron_staff",
+              "arc_st:gold_staff",
+              "arc_st:quartz_staff",
+              "arc_st:amethyst_staff",
+              "arc_st:redstone_staff",
+              "arc_st:prismarine_staff",
+              "arc_st:diamond_staff",
+              "arc_st:emerald_staff",
+              "arc_st:obsidian_staff",
+              "arc_st:netherite_staff",
+              "arc_st:breeze_staff",
+              "arc_st:end_staff",
+              "arc_st:echo_staff"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

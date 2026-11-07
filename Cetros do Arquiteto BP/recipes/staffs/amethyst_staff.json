@@ -1,0 +1,37 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "arc_st:amethyst_staff"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "ACA",
+            " S ",
+            " S "
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:amethyst_shard"
+            },
+            "C": {
+                "item": "minecraft:copper_ingot"
+            },
+            "S": {
+                "item": "minecraft:stick"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:amethyst_shard"
+            }
+        ],
+        "result": {
+            "item": "arc_st:amethyst_staff"
+        },
+        "assume_symmetry": true,
+        "priority": -1
+    }
+}

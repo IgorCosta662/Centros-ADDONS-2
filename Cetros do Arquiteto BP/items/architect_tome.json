@@ -1,0 +1,19 @@
+{
+    "format_version": "1.20.80",
+    "minecraft:item": {
+        "description": {
+            "identifier": "arc_st:architect_tome",
+            "menu_category": {
+                "category": "items"
+            }
+        },
+        "components": {
+            "minecraft:icon": "arc_st:architect_tome",
+            "minecraft:max_stack_size": 1,
+            "minecraft:hand_equipped": true,
+            "minecraft:display_name": {
+                "value": "item.arc_st:architect_tome"
+            }
+        }
+    }
+}

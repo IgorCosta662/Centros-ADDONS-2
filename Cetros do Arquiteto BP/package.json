@@ -1,0 +1,20 @@
+{
+  "name": "cetros_do_arquiteto",
+  "version": "4.0.0",
+  "author": "IgorCosta",
+  "description": "Cetros do Arquiteto Behavior Pack",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "pack": "tsc && powershell -NoProfile -ExecutionPolicy Bypass -File ./pack.ps1"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  },
+  "dependencies": {
+    "@minecraft/common": "^1.2.0",
+    "@minecraft/server": "^1.18.0",
+    "@minecraft/server-ui": "^1.3.0",
+    "@minecraft/vanilla-data": "^1.21.70"
+  }
+}

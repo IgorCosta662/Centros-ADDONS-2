@@ -1,0 +1,40 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "arc_st:prismarine_staff"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "PCP",
+            " N ",
+            " S "
+        ],
+        "key": {
+            "P": {
+                "item": "minecraft:prismarine_shard"
+            },
+            "C": {
+                "item": "minecraft:prismarine_crystals"
+            },
+            "N": {
+                "item": "minecraft:nautilus_shell"
+            },
+            "S": {
+                "item": "minecraft:stick"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:prismarine_shard"
+            }
+        ],
+        "result": {
+            "item": "arc_st:prismarine_staff"
+        },
+        "assume_symmetry": true,
+        "priority": -1
+    }
+}

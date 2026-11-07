@@ -1,0 +1,37 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "arc_st:echo_des_staff"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "ENE",
+            " W ",
+            " E "
+        ],
+        "key": {
+            "E": {
+                "item": "minecraft:echo_shard"
+            },
+            "N": {
+                "item": "minecraft:nether_star"
+            },
+            "W": {
+                "item": "arc_st:netherite_des_staff"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:echo_shard"
+            }
+        ],
+        "result": {
+            "item": "arc_st:echo_staff"
+        },
+        "assume_symmetry": true,
+        "priority": -1
+    }
+}

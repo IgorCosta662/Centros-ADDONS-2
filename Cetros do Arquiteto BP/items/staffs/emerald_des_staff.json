@@ -1,0 +1,44 @@
+{
+    "format_version": "1.20.80",
+    "minecraft:item": {
+        "description": {
+            "identifier": "arc_st:emerald_des_staff",
+            "menu_category": {
+                "category": "none",
+                "is_hidden_in_commands": true
+            }
+        },
+        "components": {
+            "minecraft:icon": "arc_st:emerald_des_staff",
+            "minecraft:durability": {
+                "max_durability": 1350
+            },
+            "minecraft:enchantable": {
+                "value": 22,
+                "slot": "flintsteel"
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:tags": {
+                "tags": [
+                    "minecraft:is_tool",
+                    "minecraft:diamond_tier",
+                    "arc_st:staff"
+                ]
+            },
+            "minecraft:repairable": {
+                "repair_items": [
+                    {
+                        "items": [
+                            "emerald"
+                        ],
+                        "repair_amount": 350
+                    }
+                ]
+            },
+            "minecraft:hand_equipped": true,
+            "minecraft:display_name": {
+                "value": "item.arc_st:emerald_des_staff"
+            }
+        }
+    }
+}

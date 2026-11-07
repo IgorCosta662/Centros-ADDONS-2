@@ -1,0 +1,37 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "arc_st:emerald_staff"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "EDE",
+            " B ",
+            " B "
+        ],
+        "key": {
+            "E": {
+                "item": "minecraft:emerald"
+            },
+            "D": {
+                "item": "minecraft:diamond"
+            },
+            "B": {
+                "item": "minecraft:blaze_rod"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:emerald"
+            }
+        ],
+        "result": {
+            "item": "arc_st:emerald_staff"
+        },
+        "assume_symmetry": true,
+        "priority": -1
+    }
+}

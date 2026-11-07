@@ -1,0 +1,43 @@
+{
+    "format_version": "1.20.80",
+    "minecraft:item": {
+        "description": {
+            "identifier": "arc_st:quartz_des_staff",
+            "menu_category": {
+                "category": "none",
+                "is_hidden_in_commands": true
+            }
+        },
+        "components": {
+            "minecraft:icon": "arc_st:quartz_des_staff",
+            "minecraft:durability": {
+                "max_durability": 750
+            },
+            "minecraft:enchantable": {
+                "value": 16,
+                "slot": "flintsteel"
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:tags": {
+                "tags": [
+                    "minecraft:is_tool",
+                    "arc_st:staff"
+                ]
+            },
+            "minecraft:repairable": {
+                "repair_items": [
+                    {
+                        "items": [
+                            "quartz"
+                        ],
+                        "repair_amount": 190
+                    }
+                ]
+            },
+            "minecraft:hand_equipped": true,
+            "minecraft:display_name": {
+                "value": "item.arc_st:quartz_des_staff"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "arc_st:end_staff"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "CEC",
+            " R ",
+            " R "
+        ],
+        "key": {
+            "C": {
+                "item": "minecraft:popped_chorus_fruit"
+            },
+            "E": {
+                "item": "minecraft:ender_eye"
+            },
+            "R": {
+                "item": "minecraft:end_rod"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:ender_eye"
+            }
+        ],
+        "result": {
+            "item": "arc_st:end_staff"
+        },
+        "assume_symmetry": true,
+        "priority": -1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resource_pack_name": "Cetros do Arquiteto",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+        "arc_st:holo_base": {
+            "textures": "textures/igorcosta/architect_staffs/blocks/holo_base"
+        },
+        "arc_st:holo_build": {
+            "textures": "textures/igorcosta/architect_staffs/blocks/holo_build"
+        },
+        "arc_st:holo_break": {
+            "textures": "textures/igorcosta/architect_staffs/blocks/holo_break"
+        },
+        "arc_st:holo_swap": {
+            "textures": "textures/igorcosta/architect_staffs/blocks/holo_swap"
+        }
+    }
+}

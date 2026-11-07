@@ -1,0 +1,99 @@
+{
+    "resource_pack_name": "Cetros do Arquiteto",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "arc_st:stone_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/stone_staff"
+        },
+        "arc_st:stone_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/stone_des_staff"
+        },
+        "arc_st:copper_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/copper_staff"
+        },
+        "arc_st:copper_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/copper_des_staff"
+        },
+        "arc_st:iron_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/iron_staff"
+        },
+        "arc_st:iron_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/iron_des_staff"
+        },
+        "arc_st:gold_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/gold_staff"
+        },
+        "arc_st:gold_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/gold_des_staff"
+        },
+        "arc_st:amethyst_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/amethyst_staff"
+        },
+        "arc_st:amethyst_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/amethyst_des_staff"
+        },
+        "arc_st:redstone_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/redstone_staff"
+        },
+        "arc_st:redstone_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/redstone_des_staff"
+        },
+        "arc_st:prismarine_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/prismarine_staff"
+        },
+        "arc_st:prismarine_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/prismarine_des_staff"
+        },
+        "arc_st:diamond_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/diamond_staff"
+        },
+        "arc_st:diamond_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/diamond_des_staff"
+        },
+        "arc_st:emerald_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/emerald_staff"
+        },
+        "arc_st:emerald_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/emerald_des_staff"
+        },
+        "arc_st:netherite_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/netherite_staff"
+        },
+        "arc_st:netherite_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/netherite_des_staff"
+        },
+        "arc_st:echo_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/echo_staff"
+        },
+        "arc_st:echo_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/echo_des_staff"
+        },
+        "arc_st:quartz_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/quartz_staff"
+        },
+        "arc_st:quartz_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/quartz_des_staff"
+        },
+        "arc_st:obsidian_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/obsidian_staff"
+        },
+        "arc_st:obsidian_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/obsidian_des_staff"
+        },
+        "arc_st:breeze_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/breeze_staff"
+        },
+        "arc_st:breeze_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/breeze_des_staff"
+        },
+        "arc_st:end_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/end_staff"
+        },
+        "arc_st:end_des_staff": {
+            "textures": "textures/igorcosta/architect_staffs/items/end_des_staff"
+        },
+        "arc_st:architect_tome": {
+            "textures": "textures/igorcosta/architect_staffs/items/architect_tome"
+        }
+    }
+}

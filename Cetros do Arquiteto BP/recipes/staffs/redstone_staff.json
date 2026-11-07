@@ -1,0 +1,37 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "arc_st:redstone_staff"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "QRQ",
+            " S ",
+            " S "
+        ],
+        "key": {
+            "Q": {
+                "item": "minecraft:quartz"
+            },
+            "R": {
+                "item": "minecraft:redstone_block"
+            },
+            "S": {
+                "item": "minecraft:stick"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:quartz"
+            }
+        ],
+        "result": {
+            "item": "arc_st:redstone_staff"
+        },
+        "assume_symmetry": true,
+        "priority": -1
+    }
+}
